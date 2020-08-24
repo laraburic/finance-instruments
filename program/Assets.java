@@ -1,4 +1,4 @@
-package lab2solutions;
+package lab2;
 
 import java.util.Arrays;
 
