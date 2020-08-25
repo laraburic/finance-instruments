@@ -1,4 +1,4 @@
-package lab2solutions;
+package lab2;
 
 public class FinanceInstrument {
     private double interestRate;
