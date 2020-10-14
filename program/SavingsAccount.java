@@ -1,4 +1,4 @@
-package lab2solutions;
+package lab2;
 
 public class SavingsAccount extends FinanceInstrument {
 
